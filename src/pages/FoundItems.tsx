@@ -296,3 +296,4 @@ const FoundItems: React.FC = () => {
   );
 };
 export default FoundItems;
+
